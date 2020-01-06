@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(30,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(58,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(62,9): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(168,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(226,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(260,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(313,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(328,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(334,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(390,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(436,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(506,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(534,21): warning C4018:  '>': signed/unsigned mismatch
+  Generating code
+C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\h_dive_class.h(52): warning C4715: 'how_far_to_match': not all control paths return a value
+  16 of 334 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Aegir Dive Calculator.vcxproj -> C:\Users\Skrai\Desktop\Dive Calculator\Aegir Dive Calculator\Release\Aegir Dive Calculator.exe
